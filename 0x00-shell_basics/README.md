@@ -10,3 +10,4 @@ rm /tmp/my_first_directory/betty
 rm -m /tmp/my_first_directory
 cd ..
 ls -la . .. /boot
+ln -s /bin/ln __ln__
