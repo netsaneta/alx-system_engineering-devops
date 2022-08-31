@@ -6,3 +6,4 @@ ls -la (List all files (even ones with names beginning with a period character, 
 ln -lan
 mkdir /tmp/my_first_directory
 mv /tmp/betty /tmp/my_first_directory
+rm /tmp/my_first_directory/betty
