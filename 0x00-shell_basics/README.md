@@ -14,3 +14,4 @@ ln -s /bin/ln __ln__
 cp -u *.html ../
 mv [[:upper:]]* /tmp/u
 rm *~
+ls -amp
