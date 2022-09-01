@@ -9,3 +9,4 @@ chmod +x
 chmod o=rwx hello
 chmod --reference=olleh hello
 chmod +x -R ./
+mkdir -m 751 my_dir
