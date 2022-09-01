@@ -8,3 +8,4 @@ chmod ug+x,o=r
 chmod +x
 chmod o=rwx hello
 chmod --reference=olleh hello
+chmod +x -R ./
