@@ -6,3 +6,4 @@ touch hello
 chmod u+x hello
 chmod ug+x,o=r
 chmod +x
+chmod o=rwx hello
