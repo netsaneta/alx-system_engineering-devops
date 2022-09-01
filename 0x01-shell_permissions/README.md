@@ -1,2 +1,3 @@
 su betty
 whoami
+groups
